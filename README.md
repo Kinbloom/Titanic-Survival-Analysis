@@ -10,12 +10,11 @@ Apply supervised learning algorithms such as:
 Download the two datasets from the given links:
 
 **Dataset 1 Source** 
-Train Dataset Source: https://www.kaggle.com/c/titanic/download/train.csv (Links to an external site.)
-
-Test Dataset Source: https://www.kaggle.com/c/titanic/download/test.csv (Links to an external site.)
+- Train Dataset Source: https://www.kaggle.com/c/titanic/download/train.csv (Links to an external site.)
+- Test Dataset Source: https://www.kaggle.com/c/titanic/download/test.csv (Links to an external site.)
 
 **Dataset 2 Source** 
-Spam Dataset : https://archive.ics.uci.edu/ml/datasets/Spambase (Links to an external site.)
+- Spam Dataset : https://archive.ics.uci.edu/ml/datasets/Spambase (Links to an external site.)
 
 **Instructions**
 
