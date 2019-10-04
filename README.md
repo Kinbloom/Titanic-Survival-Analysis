@@ -2,9 +2,7 @@
 
 During this week’s Independent project, you will get the test your understanding of the following methodologies to solving business problems.
 Apply supervised learning algorithms such as:
-- Decision trees; Random Forests
 - K-Nearest Neighbors
-- Support Vector Machines
 - Naive Bayes
 
 **Experimental Procedure**
