@@ -1,15 +1,13 @@
-# Week-9-Indepndent-Project
+# Week-9-Independent-Project
 
 During this week’s Independent project, you will get the test your understanding of the following methodologies to solving business problems.
-- Apply supervised learning algorithms such as:
-      - Regression
-      - Decision trees
-      - K-Nearest Neighbors
-      - Support Vector Machines
-      - Naive Bayes
-      - Random forests 
+Apply supervised learning algorithms such as:
+- Decision trees; Random Forests
+- K-Nearest Neighbors
+- Support Vector Machines
+- Naive Bayes
 
-*Experimental Procedure*
+**Experimental Procedure**
 
 Download the two datasets from the given links:
 
@@ -19,7 +17,7 @@ Test Dataset Source: Link (Links to an external site.)]
 
 Dataset 2 Source: [Link (Links to an external site.)]
 
-*Steps to Follow*
+**Instructions**
 
 1. Randomly partition each dataset into two parts i.e 80 - 20  sets.
 2. For dataset 1, because we don't have the label for the test set, we will use the train set to create train and test data (i.e. splitting further), then perform K-nearest neighbor classification.
